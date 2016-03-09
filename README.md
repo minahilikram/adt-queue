@@ -2,7 +2,7 @@
 
 > Queue
 
-[Queue](https://en.wikipedia.org/wiki/Linked_list) is a integer based implementation on top of a linked list ADT on C Algorithms for applications.
+[Queue](https://en.wikipedia.org/wiki/Linked_list) is an integer based implementation on top of a linked list ADT on C Algorithms for applications.
 
 > Queue is a First-In-First-Out (FIFO) data structure in which the collection of the data is kept in order. The principal operations on the collection is the addition of data  to the rear terminal position, known as enqueue, and removal of data from the front terminal position, known as dequeue.
 
