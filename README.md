@@ -14,7 +14,7 @@ $ git clone https://github.com/minahilikram/adt-queue
 
 ## Usage
 
-For an example, see [src/main.c](https://github.com/minahilikram/adt-queue/blob/master/src/main.c) or [src/testing.c](https://github.com/minahilikram/adt-queue/blob/master/src/testing.c); to execute see below..
+For an example, see [src/main.c](https://github.com/minahilikram/adt-queue/blob/master/src/main.c) or [src/testing.c](https://github.com/minahilikram/adt-queue/blob/master/src/testing.c); to execute see below.
 
 ```sh
 $ cd adt-queue/
