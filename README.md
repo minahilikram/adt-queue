@@ -26,4 +26,4 @@ $ make runtests
 
 ## Limitations
 
-For a complete list of limitations, see [docs/analysis.md](https://github.com/minahilikram/adt-linked-list/blob/master/docs/analysis.md).
+For a complete list of limitations, see [docs/analysis.md](https://github.com/minahilikram/adt-queue/blob/master/docs/analysis.md).
