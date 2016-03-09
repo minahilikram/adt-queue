@@ -1,6 +1,6 @@
 # adt-linked-list
 
-> adt-queue
+> Queue
 
 [Queue](https://en.wikipedia.org/wiki/Linked_list) is a integer based implementation on top of a linked list ADT on C Algorithms for applications.
 
